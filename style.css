@@ -1,8 +1,7 @@
-p{
-    text-align:center
-}
+
 body{
-    background: #CCCCCC
+    background: #CCCCCC;
+    text-align:center;
 }
 strong{
     color: red;
